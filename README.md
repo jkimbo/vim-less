@@ -4,6 +4,8 @@ This vim bundle adds syntax highlighting for the dynamic stylesheet language [LE
 
 This bundle is compatible with [vim-css-color](https://github.com/skammer/vim-css-color).
 
+# Includes css indenting file from [Nikolai Weibull](https://gist.github.com/762326/bcbd35239db7f26447f1c2323037d20a5219471d)
+
 ## Installing and Using ##
 
 - Install [pathogen](http://www.vim.org/scripts/script.php?script_id=2332) into `~/.vim/autoload/` and add the
